@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:dev.sqyyy.utility.eventadapter////PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/index.html
+$dokka.location:dev.sqyyy.utility.eventadapter/GenericEventAdapter///PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-generic-event-adapter/index.html
+$dokka.location:dev.sqyyy.utility.eventadapter/GenericEventAdapter/GenericEventAdapter/#/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-generic-event-adapter/-generic-event-adapter.html
+$dokka.location:dev.sqyyy.utility.eventadapter/GenericEventAdapter/callEvent/#java.lang.Class[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any])])]#TypeParam(bounds=[TypeParam(bounds=[kotlin.Any])])/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-generic-event-adapter/call-event.html
+$dokka.location:dev.sqyyy.utility.eventadapter/GenericEventAdapter/registerListener/#java.lang.Class[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any])])]#java.util.function.Consumer[TypeParam(bounds=[TypeParam(bounds=[kotlin.Any])])]/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-generic-event-adapter/register-listener.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter.EventHandler///PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-event-handler/index.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter.EventHandler/EventHandler/#/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-event-handler/-event-handler.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter.EventMethod///PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-event-method/index.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter.EventMethod/EventMethod/#TypeParam(bounds=[kotlin.Any?])#java.lang.reflect.Method/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-event-method/-event-method.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter.EventMethod/method/#/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-event-method/method.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter.EventMethod/parent/#/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-event-method/parent.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter///PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/index.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter/ReflectionEventAdapter/#java.lang.Class[TypeParam(bounds=[kotlin.Any])]/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/-reflection-event-adapter.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter/callEvent/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/call-event.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter/registerEvent/#java.lang.Class[TypeParam(bounds=[kotlin.Any])]/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/register-event.html
+$dokka.location:dev.sqyyy.utility.eventadapter/ReflectionEventAdapter/registerListener/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-utility/dev.sqyyy.utility.eventadapter/-reflection-event-adapter/register-listener.html
+dev.sqyyy.utility.eventadapter
+
